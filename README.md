@@ -1,5 +1,5 @@
-Installation
-Install xamp latest 3.3 
+Installation: 
+Install xamp latest 3.3, 
 Install dependencies (composer install)
 Download zip file and extract in C:\xampp\htdocs
 Set Database Credentials & App Settings in dotenv file (.env)
